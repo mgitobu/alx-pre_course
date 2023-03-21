@@ -1,0 +1,1 @@
+git diff --namely only <commit1>..<commit2>
